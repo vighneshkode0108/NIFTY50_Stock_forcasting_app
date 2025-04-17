@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/your-username/your-video-id.mp4
 ## 📺 Screenshots
 
 ### Home Page
-![Home Page](assets/screenshot1.png)
+![Home Page](Screenshot2025-04-17013957.png)
 
 ### Dashboard
 ![Dashboard](assets/screenshot2.png)
