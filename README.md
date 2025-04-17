@@ -31,9 +31,12 @@ https://user-images.githubusercontent.com/your-username/your-video-id.mp4
 
 ## 📺 Screenshots
 
-| Dashboard Preview | Forecast Graph |
-|-------------------|----------------|
-| ![Dashboard](assets/dashboard.png) | ![Forecast](assets/forecast.png) |
+### Home Page
+![Home Page](assets/screenshot1.png)
+
+### Dashboard
+![Dashboard](assets/screenshot2.png)
+
 
 
 
