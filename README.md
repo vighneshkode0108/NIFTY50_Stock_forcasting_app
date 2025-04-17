@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/your-username/your-video-id.mp4
 |-------------------|----------------|
 | ![Dashboard](assets/dashboard.png) | ![Forecast](assets/forecast.png) |
 
-> ℹ️ You can add screenshots to the `assets/` folder and update the image paths.
+
 
 ---
 
