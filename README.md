@@ -29,19 +29,6 @@ A visually enhanced and interactive AI-powered web app to forecast **NIFTY50 sto
 
 ---
 
-## 📺 Screenshots
-
-### Home Page
-![Home Page](Screenshot2025-04-17013957.png)
-
-### Dashboard
-![Dashboard](assets/screenshot2.png)
-
-
-
-
----
-
 ## 🧠 Tech Stack
 
 - **Frontend**: [Streamlit](https://streamlit.io/)
