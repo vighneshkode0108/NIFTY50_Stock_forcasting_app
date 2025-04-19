@@ -10,8 +10,8 @@ A visually enhanced and interactive AI-powered web app to forecast **NIFTY50 sto
 
 ## 🚀 Demo
 
-https://user-images.githubusercontent.com/your-username/your-video-id.mp4  
-<!-- Replace with your actual video URL or GitHub-hosted video path -->
+[![Watch the video](https://img.youtube.com/vi/MRwdyijC6jQ/0.jpg)](https://www.youtube.com/watch?v=MRwdyijC6jQ)
+
 
 ---
 
